@@ -4,40 +4,40 @@
 
 - B
 
-> [Badlion](badlion.net)
+> [Badlion](http://badlion.net)
 
 - C
 
-> [CM-Pack](cm-pack.pl)
+> [CM-Pack](http://cm-pack.pl)
 
 - L
 
-> [LabyMod](labymod.net)
+> [LabyMod](http://labymod.net)
 
-> [Lunar](lunarclient.net)
+> [Lunar](http://lunarclient.net)
 
 ## Hack Client
 
 - F
 
-> [Flux](flux.today)
+> [Flux](http://flux.today)
 
 - I
 
-> [Impact](impactclient.net)
+> [Impact](http://impactclient.net)
 
 - L
 
-> [LiquidBounce](liquidbounce.net)
+> [LiquidBounce](http://liquidbounce.net)
 
 - N
 
-> [Novoline](novoline.wtf)
+> [Novoline](http://novoline.wtf)
 
 - S
 
-> [Sigma](sigmaclient.info)
+> [Sigma](http://sigmaclient.info)
 
 - W
 
-> [WWE](wweclient.com)
+> [WWE](http://wweclient.com)
