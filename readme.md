@@ -8,7 +8,7 @@
 
 - C
 
-> [CM-Pack](cm-pacj.pl)
+> [CM-Pack](cm-pack.pl)
 
 - L
 
