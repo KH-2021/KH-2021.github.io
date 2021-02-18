@@ -4,7 +4,7 @@
 
 - B
 
-> [Badlion](http://badlion.net)
+> [Badlion](http://www.badlion.net)
 
 - C
 
@@ -14,9 +14,13 @@
 
 > [LabyMod](http://labymod.net)
 
-> [Lunar](http://lunarclient.net)
+> [Lunar](http://www.lunarclient.com)
 
 ## Hack Client
+
+- D
+
+> [Debug](http://debug.xinchen.space)
 
 - F
 
@@ -32,7 +36,7 @@
 
 - N
 
-> [Novoline](http://novoline.wtf)
+> [Novoline](novoline.wtf)
 
 - S
 
