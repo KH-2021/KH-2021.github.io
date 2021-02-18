@@ -16,7 +16,11 @@
 
 > [Lunar](http://www.lunarclient.com)
 
-## Hack Client
+## Hacked Client
+
+- A
+
+> [Ares](http://aresclient.org)
 
 - D
 
@@ -30,9 +34,17 @@
 
 > [Impact](http://impactclient.net)
 
+- K
+
+> [KAMI](https://github.com/zeroeightysix/KAMI)
+
 - L
 
 > [LiquidBounce](http://liquidbounce.net)
+
+- M
+
+> [Meteor](http://meteorclient.com/)
 
 - N
 
