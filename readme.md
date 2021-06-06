@@ -32,6 +32,8 @@
 
 > [Flux](http://flux.today)
 
+> [Future](https://www.futureclient.net/)
+
 - I
 
 > [Impact](http://impactclient.net)
