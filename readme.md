@@ -28,7 +28,7 @@
 
 - F
 
-> [FDPClient](https://fdp.liulihaocai.pw/)
+> [FDP](https://fdp.liulihaocai.pw/)
 
 > [Flux](http://flux.today)
 
@@ -36,7 +36,7 @@
 
 > [Impact](http://impactclient.net)
 
-> [InertiaClient (WWEClient)](https://inertiaclient.com/)
+> [Inertia (WWE)](https://inertiaclient.com/)
 
 - K
 
