@@ -22,6 +22,8 @@
 
 > [Ares](http://aresclient.org)
 
+> [Astolfo](https://www.astolfo.lgbt/)
+
 - D
 
 > [Debug](http://debug.xinchen.space)
@@ -59,6 +61,10 @@
 - S
 
 > [Sigma](http://sigmaclient.info)
+
+- V
+
+> [Vape](http://vape.gg/)
 
 - W
 
