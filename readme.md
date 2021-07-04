@@ -62,7 +62,7 @@
 
 - N
 
-> [Novoline](http://novoline.wtf)
+> Novoline [New](http://noveline.gg) [Old](http://novoline.wtf)
 
 - S
 
